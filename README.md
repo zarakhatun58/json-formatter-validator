@@ -31,8 +31,7 @@ A free online tool to validate, format, and minify JSON data instantly.
 * Vercel
 
 ## Live Demo
-
-[Add Vercel URL Here]
+https://json-formatter-validator-eta.vercel.app/
 
 ## GitHub Repository
 https://github.com/zarakhatun58/json-formatter-validator
